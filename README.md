@@ -10,6 +10,10 @@ When realizing this project you will be able to:
 </ul>
 <h3>Screenshot</h3>
 <IMG SRC="images/gif.gif">
+<video width="520" height="340" controls>
+  <source src="images/video.webm" type="video/.webm">
+  Your browser does not support the video tag.
+</video>
 
 <h3>Links</h3>
 <ul>
