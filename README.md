@@ -9,12 +9,13 @@ When realizing this project you will be able to:
   <li>See hover and focus states for interactive elements.</li>
 </ul>
 <h3>Screenshot</h3>
-<IMG SRC="images/gif.gif">
-  
-<video width="520" height="340" controls>
-  <source src="images/video.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+<ul>
+  <li>PNG</li>
+  <IMG SRC="images/image.png">
+  <li>GIF</li>
+   <IMG SRC="images/gif.gif">
+</ul>
+
 
 <h3>Links</h3>
 <ul>
