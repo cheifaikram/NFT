@@ -10,10 +10,10 @@ When realizing this project you will be able to:
 </ul>
 <h3>Screenshot</h3>
 <ul>
-  <li>PNG</li>
-  <IMG SRC="images/image.png">
+  <li style="font-size=10px">PNG</li>
+  <IMG SRC="images/image.png" style="width="520" height="340">
   <li>GIF</li>
-   <IMG SRC="images/gif.gif">
+   <IMG SRC="images/gif.gif" style="width="520" height="340">
 </ul>
 
 
