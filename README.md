@@ -12,8 +12,8 @@ When realizing this project you will be able to:
 
 <h3>Links</h3>
 <ul>
-  <li>Solution URL:</li>
-  <li>Live Site URL:</li>
+  <li>Solution URL: <a href="https://www.frontendmentor.io/solutions/css-flex-box-ATcEv1aIww"</a> </li>
+  <li>Live Site URL:  <a href="https://aquamarine-mooncake-812301.netlify.app/"</a></li>
 </ul>
 
 <h2>My process</h2>
