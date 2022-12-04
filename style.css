@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+  
+    body  {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: center;
+      background-color: hsl(217, 54%, 11%);
+    }
+
+    main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        background-color: hsl(216, 50%, 16%);
+        border-radius: 10px;
+        align-items: center;
+        height: 340px;
+        width: 200px;
+  
+    }
+
+    .cont {
+        position: relative;
+        width: 170px;
+        height: auto;
+        border-radius: 5px 5px 5px 5px;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+        margin-right: 5px; 
+        
+        }
+        
+    .image {
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        border-radius: 5px 5px 5px 5px;
+            
+             
+    }
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+        width: 100%;
+        opacity: 0;
+        background-color: hsl(178, 100%, 50%);
+        
+        border-radius: 10px;
+        
+    }
+      
+    .cont:hover .overlay {
+        opacity: 0.7;
+        cursor: pointer;
+        display: block;
+    }
+      
+    #icon {
+        color: white;
+        width: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+       
+    }
+
+    .nft{
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        margin-left: 15px;
+        padding-top: 10px;    
+            
+    }
+    
+    .equilibrium{
+        font-family: Outfit;
+        color: hsl(0, 0%, 100%);
+        font-weight: 600;
+        font-size: 14px;
+        margin-bottom: 10px;
+    } 
+
+    .equilibrium:hover{
+        color: hsl(178, 100%, 50%);
+        cursor: pointer;
+    }
+
+    .paragraph{
+        color: hsl(215, 51%, 70%);
+        font-weight: 300;
+        font-size: 10px;
+        font-family: Outfit;
+        margin-bottom: 10px;
+    }
+
+    .eth_clock{
+        display: flex;
+        
+    }
+    .eth_img{
+        margin-right: 4px;
+        color: hsl(178, 100%, 50%);
+        width: 7px;
+        height: 12px;
+    }
+
+    .eth_par { 
+        font-weight: 600;
+        font-family: Outfit;
+        color: hsl(178, 100%, 50%);
+        font-size: 9px;
+        padding-right: 60px;
+    }
+
+    .clock_img{
+        margin-right: 4px;
+        width: 12px;
+        height: auto;
+
+    }
+
+    .clock_par { 
+        font-weight: 300;
+        font-family: Outfit;
+        color: hsl(215, 51%, 70%);
+        font-size: 9px;
+        
+    }
+
+    .line{
+        height: 0.5px;
+        opacity: 0.3;
+        width: 170px;
+        background: hsl(215, 51%, 70%);
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .creation{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .view_img{
+        margin-right: 10px;
+        margin-top: 0px;
+        width: 20px;
+        height: auto;
+        border: 1px solid hsl(0, 0%, 100%);
+        border-radius: 10px;
+        
+
+    }
+
+    .creation_par{
+        font-weight: 300;
+        font-family: Outfit;
+        color: hsl(215, 51%, 70%);
+        font-size: 10px;
+        margin-top: 4px;
+    }
+
+    .jules{
+        font-weight: 400;
+        font-family: Outfit;
+        color: hsl(0, 0%, 100%);
+        font-size: 9px;
+    }
+
+    .jules:hover{
+        color: hsl(178, 100%, 50%);
+        cursor: pointer;
+    }
+        
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
