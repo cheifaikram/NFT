@@ -9,9 +9,9 @@ When realizing this project you will be able to:
   <li>See hover and focus states for interactive elements.</li>
 </ul>
 <h3>Screenshot</h3>
-<h4>PNG</h4>
+<h3>1- PNG</h3>
 <IMG SRC="images/image.png" style="width="520" height="340">
-<h4>GIF</h4>
+<h3>2- GIF</h3>
 <IMG SRC="images/gif.gif" style="width="520" height="340">
 
 <h3>Links</h3>
