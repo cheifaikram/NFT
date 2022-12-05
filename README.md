@@ -16,8 +16,8 @@ When realizing this project you will be able to:
 
 <h3>Links</h3>
 <ul>
-  <li>Solution URL: <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/"> https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/ </a> </li>
-  <li>Live Site URL:  <a href="https://aquamarine-mooncake-812301.netlify.app/"> https://aquamarine-mooncake-812301.netlify.app/ </a></li>
+  <li>Solution URL: <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/"> My Solution </a> </li>
+  <li>Live Site URL:  <a href="https://aquamarine-mooncake-812301.netlify.app/"> Live Demo </a></li>
 </ul>
 
 <h2>My process</h2>
